@@ -1,0 +1,11 @@
+{
+  "firstName": "LJ",
+  "lastName": "jackson",
+  "email": "lj@pop.com",
+  "password": "mj",
+  "street": "123 main street",
+  "city": "atlanta",
+  "zip": "30001",
+  "passengerCount": "2",
+  "expectedPrice": "$1169 USD"
+}

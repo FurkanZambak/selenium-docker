@@ -1,0 +1,11 @@
+{
+  "firstName": "Mohammad",
+  "lastName": "jackson",
+  "email": "mohammad@tr.com",
+  "password": "mj",
+  "street": "123 main street",
+  "city": "atlanta",
+  "zip": "30001",
+  "passengerCount": "4",
+  "expectedPrice": "$2338 USD"
+}
